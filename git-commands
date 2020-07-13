@@ -49,6 +49,10 @@ git commit -m "name file"
 git log
 git push   (error)
 git pull --rebase
+<<<<<<< HEAD
 git push
 
 Hi Vinay
+=======
+git push
+>>>>>>> 4af9a6c... All commit
